@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octaviolomeli&layout=compact)]
+![Top Languages](https://api.githubtrends.io/user/svg/octaviolomeli/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
